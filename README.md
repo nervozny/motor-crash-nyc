@@ -36,6 +36,3 @@ We can see that buses are much more dangerous for pedestrians both in terms of i
 Interstingly, the ambulances are in second place after buses in terms of harm to pedestrians.
 
 Mopeds rate of injuring is high, while rate of killing is the lowest (probably it's because mopeds are light and usually don't drive fast as well as bikes). In any case, the casualty rate of killed pedestrians is surprisingly high possibly due to imperfect moped regulation.
-
-
-
