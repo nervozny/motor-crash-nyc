@@ -3,7 +3,8 @@
 
 
 Dataset:
-https://www.kaggle.com/datasets/new-york-city/nypd-motor-vehicle-collisions?select=nypd-motor-vehicle-collisions.csv (originally taken from https://opendata.cityofnewyork.us/)
+
+https://www.kaggle.com/datasets/nervozny/motor-crash-nyc (originally taken from https://opendata.cityofnewyork.us/)
 
 Also, I used the following information:
 
